@@ -1,4 +1,4 @@
-In this article, we explore the analysis and modeling of a furniture dataset from Flipkart, focusing on predicting discounted prices based on original prices. The dataset includes attributes such as `furniture_type`, `name`, `discounted_price`, and `original_price`.
+We are exploring the analysis and modeling of a furniture dataset from Flipkart, focusing on predicting discounted prices based on original prices. The dataset includes attributes such as `furniture_type`, `name`, `discounted_price`, and `original_price`.
 
 After loading and cleaning the data, we employed polynomial regression and decision tree regression to model the relationship between the original and discounted prices. Polynomial regression, which can capture non-linear relationships, showed good performance, indicated by a high R^2 score. Decision tree regression, known for its ability to model complex interactions without feature transformations, also performed well.
 
