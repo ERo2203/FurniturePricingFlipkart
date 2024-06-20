@@ -5,3 +5,6 @@ After loading and cleaning the data, we employed polynomial regression and decis
 We visualized the models' predictions against actual data, showing the polynomial regression's smooth curve and the decision tree's step-like predictions. Additionally, we visualized the decision tree's structure, providing insights into how it splits the data based on original prices to make predictions. Each node in the tree represents a decision rule, with leaf nodes providing the final predicted discounted prices.
 
 Our analysis highlights the strengths of both approaches: polynomial regression for capturing smooth trends and decision trees for handling complex interactions. These models can help businesses optimize pricing strategies by accurately predicting discounted prices based on original prices.
+
+#### Source of data 
+Kaggle: https://www.kaggle.com/datasets/neerajjain6197/flipkart-furniture-dataset
