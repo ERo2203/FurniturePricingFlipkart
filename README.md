@@ -6,5 +6,5 @@ We visualized the models' predictions against actual data, showing the polynomia
 
 Our analysis highlights the strengths of both approaches: polynomial regression for capturing smooth trends and decision trees for handling complex interactions. These models can help businesses optimize pricing strategies by accurately predicting discounted prices based on original prices.
 
-#### Source of data 
+#### Source of data ####
 Kaggle: https://www.kaggle.com/datasets/neerajjain6197/flipkart-furniture-dataset
